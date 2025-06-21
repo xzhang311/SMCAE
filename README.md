@@ -1,7 +1,7 @@
 # SMCAE
 
 ## Overview
-SMCAE (Stacked Multi-Channel Autoencoder) is a Python implementation of the ICMLA 2015 paper, *["Learning from Synthetic Data Using a Stacked Multichannel Autoencoder"](https://arxiv.org/abs/1509.05463).* This project focuses on a deep learning model designed to learn robust feature representations from synthetic multi-channel data, such as multi-spectral images or sensor data, using a stacked sparse autoencoder architecture. It is particularly suited for tasks like dimensionality reduction, feature extraction, and anomaly detection.
+SMCAE (Stacked Multi-Channel Autoencoder) is a Python implementation of my ICMLA 2015 paper, *["Learning from Synthetic Data Using a Stacked Multichannel Autoencoder"](https://arxiv.org/abs/1509.05463).* This project focuses on a deep learning model designed to learn robust feature representations from synthetic multi-channel data, such as multi-spectral images or sensor data, using a stacked sparse autoencoder architecture. It is particularly suited for tasks like dimensionality reduction, feature extraction, and anomaly detection.
 
 ## Features
 - **Stacked Sparse Autoencoder**: Learns hierarchical, compact representations with sparsity constraints for multi-channel data.
